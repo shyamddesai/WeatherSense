@@ -36,7 +36,7 @@ Example sensor error statistics generated using HTML showing the number of times
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/shyamddesai/WeatherSense
-   cd sensor-log-parser
+   cd WeatherSense
    ```
 
 2. **Make the Script Executable**:
